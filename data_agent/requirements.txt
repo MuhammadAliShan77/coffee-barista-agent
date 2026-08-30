@@ -1,0 +1,4 @@
+google-adk==2.4.*
+litellm[proxy]
+orjson
+mcp==1.29.*
