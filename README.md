@@ -88,6 +88,6 @@ Empowered the `data_agent` with secure, read-only SQL execution (`execute_sql_re
 
 <div align="center">
 
-Built with ❤️ & AI Excellence | Official Google GenAI Codelabs & UET Lahore
+Built with ❤️ AI Excellence | Official Google GenAI Codelabs
 
 </div>
