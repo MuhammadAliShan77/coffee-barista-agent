@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 google-adk==2.2.0
 streamlit==1.56.0
+=======
+fastapi>=0.100.0
+uvicorn>=0.22.0
+google-adk>=1.27.1
+google-auth
+google-api-python-client
+>>>>>>> 3145c9e (Complete Track 3 coffee-mgr-agent implementation and deployment files)
